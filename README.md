@@ -1,5 +1,8 @@
 <img src ="https://mainvibes.com/wp-content/uploads/2020/05/PROGRAMMER.jpg ">
-## Hi there 👋 :grinning:
+
+### Hi there 👋 :grinning:
+
+I am Alek. First of all thank you for taking your time to navigate through my repo. Although I am not a super experienced developer but I hope that you will like navigating through my projects. Pleases feel free to give a feedback and if you like my projects, please do not forget to star my repo :wink:
 
 - 🔭 I’m currently working on App Development
 - 🌱 I’m currently learning Flutter & OpenCV
