@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src ="https://mainvibes.com/wp-content/uploads/2020/05/PROGRAMMER.jpg ">
+## Hi there 👋 :grinning:
 
 - 🔭 I’m currently working on App Development
 - 🌱 I’m currently learning Flutter & OpenCV
