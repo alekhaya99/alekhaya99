@@ -1,4 +1,4 @@
-<img src ="https://mainvibes.com/wp-content/uploads/2020/05/PROGRAMMER.jpg ">
+<img src ="https://mainvibes.com/wp-content/uploads/2020/05/PROGRAMMER.jpg">
 
 ### Hi there , Alek here 👋 :grinning:
 
