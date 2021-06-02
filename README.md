@@ -14,4 +14,5 @@ First of all thank you for taking your time to navigate through my repo. Althoug
 - 😄 Call me: Alek
 - ⚡ Fun fact: Learning, Creating and Sharing new stuffs is my hobby
 
-<img src ="https://github-readme-stats.vercel.app/api?username=alekhaya99&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=4A306D ">
+<img src ="https://user-images.githubusercontent.com/55008888/120496707-5d4fa480-c3f0-11eb-89c5-a22b75b3034a.jpg ">
+
