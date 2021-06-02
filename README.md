@@ -1,4 +1,4 @@
-<img src ="https://mainvibes.com/wp-content/uploads/2020/05/PROGRAMMER.jpg">
+<img src ="https://user-images.githubusercontent.com/55008888/120496707-5d4fa480-c3f0-11eb-89c5-a22b75b3034a.jpg ">
 
 ### Hi there , Alek here 👋 :grinning:
 
@@ -14,5 +14,5 @@ First of all thank you for taking your time to navigate through my repo. Althoug
 - 😄 Call me: Alek
 - ⚡ Fun fact: Learning, Creating and Sharing new stuffs is my hobby
 
-<img src ="https://user-images.githubusercontent.com/55008888/120496707-5d4fa480-c3f0-11eb-89c5-a22b75b3034a.jpg ">
+
 
